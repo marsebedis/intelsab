@@ -1,0 +1,7 @@
+@import url("diseño.css");
+.titulo{display: flex;
+	padding: 0px 450px;
+color: red;
+}
+
+.d-md-block{color:yellow}
